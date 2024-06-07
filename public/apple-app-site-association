@@ -1,0 +1,11 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "58SJ95Q389.com.unity.unityfitness.dev",
+          "paths": [ "/detail/*" ]
+        }
+      ]
+    }
+  }

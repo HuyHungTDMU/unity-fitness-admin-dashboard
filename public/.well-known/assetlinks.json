@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "unityfitness_android",
+        "package_name": "com.unityfitness",
+        "sha256_cert_fingerprints": [
+          ""
+        ]
+      }
+    }
+]
